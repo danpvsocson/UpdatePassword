@@ -1,0 +1,9 @@
+Enable Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+Disable Set-ExecutionPolicy -ExecutionPolicy Undefined -Scope CurrentUser
+
+Enable Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Disable Set-ExecutionPolicy -Scope Process -ExecutionPolicy Undefined
+
+Right-click on the script file (ChangePassWord.ps1) in Windows Explorer
+go to Properties, and check if there's an "Unblock" option. If so
+click "Unblock" and then try running the script again.
