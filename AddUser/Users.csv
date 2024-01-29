@@ -1,0 +1,7 @@
+account,firstname,lastname,displayname,password,ou
+dan.pham,Dan,Pham,Pham Dan,cntt!123,"OU=K14,OU=KhoaCNTT,DC=cnttcoitk14,DC=vn"
+hoang.nguyen,Hoang,Nguyen,Nguyen Hoang,cntt!124,"OU=K14,OU=KhoaCNTT,DC=cnttcoitk14,DC=vn"
+anh.luu,Anh,Luu,Luu Anh,cntt!125,"OU=K15,OU=KhoaCNTT,DC=cnttcoitk14,DC=vn"
+chinh.luu,Chinh,Luu,Luu Chinh,cntt!126,"OU=K15,OU=KhoaCNTT,DC=cnttcoitk14,DC=vn"
+tri.nguyen,Tri,Nguyen,Nguyen Tri,cntt!127,"CN=Users,DC=cnttcoitk14,DC=vn"
+truong.ha,Truong,Ha,Ha Truong,cntt!128,"CN=Users,DC=cnttcoitk14,DC=vn"
